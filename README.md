@@ -42,45 +42,31 @@
 
 | 管理后台首页 | 用户首页 |
 | --- | --- |
-| ![管理后台](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/1e9ce42b-6b7a-471b-8a7b-42a97d36a0de" />
-) | ![首页](<img width="1257" height="1279" alt="image" src="https://github.com/user-attachments/assets/d49de63f-225f-4da4-862d-fc3162c73f29" />
-) |
+|<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/1e9ce42b-6b7a-471b-8a7b-42a97d36a0de" />|<img width="1257" height="1279" alt="image" src="https://github.com/user-attachments/assets/d49de63f-225f-4da4-862d-fc3162c73f29" />|
 
 | 设备管理 | 用户管理 |
 | --- | --- |
-| ![设备管理](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/68194eb1-83ea-4b76-8890-b31fe976a655" />
-) | ![用户管理](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/5ede3cfc-3630-41b5-a991-2ef1b0f6e3e2" />
-) |
+| <img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/68194eb1-83ea-4b76-8890-b31fe976a655" />|<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/5ede3cfc-3630-41b5-a991-2ef1b0f6e3e2" />|
 
 | 分站管理 | 后台配置 |
 | --- | --- |
-| ![分站管理](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/d9d995d0-a489-4cdd-86cd-a27f29b66af4" />
-) | ![后台配置](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/e8ddba2d-aa58-4a30-b3fc-b942d948f408" />
-) |
+| <img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/d9d995d0-a489-4cdd-86cd-a27f29b66af4" />| <img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/e8ddba2d-aa58-4a30-b3fc-b942d948f408" />|
 
 | 后台配置 | 后台配置 |
 | --- | --- |
-| ![后台配置](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/2871e675-58ae-4cd6-ac22-1382574567d7" />
-) | ![后台配置](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/a7cbd56b-1dd7-44f2-b653-7ddcb3616a2c" />
-) |
+| <img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/2871e675-58ae-4cd6-ac22-1382574567d7" />| <img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/a7cbd56b-1dd7-44f2-b653-7ddcb3616a2c" />|
 
 | 商品发卡 | 帮助中心 |
 | --- | --- |
-| ![商品发卡](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/72447949-e415-4ea0-8ccb-ca836751d071" />
-) | ![帮助中心](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/9baf89ea-0ca0-4867-a0d2-51f71932af4a" />
-) |
+|<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/72447949-e415-4ea0-8ccb-ca836751d071" /> |<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/9baf89ea-0ca0-4867-a0d2-51f71932af4a" />|
 
 | 工单系统 | 软件源 |
 | --- | --- |
-| ![工单系统](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/04b982da-8880-441f-8cb2-5d1b5768e5da" />
-) | ![软件源](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/83143df0-13e4-4c9c-9abd-80837e4c17f0" />
-) |
+| <img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/04b982da-8880-441f-8cb2-5d1b5768e5da" />|<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/83143df0-13e4-4c9c-9abd-80837e4c17f0" />|
 
 | 分站后台，主站 | 分站主站后台导航区别 |
 | --- | --- |
-| ![分站后台](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/c9d6eb99-bc96-47ea-a703-b759ae419f41" />
-) | ![分站主站后台导航区别](<img width="1898" height="1166" alt="image" src="https://github.com/user-attachments/assets/0820aaad-4c97-400c-921a-bc2ebae66e34" />
-) |
+| <img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/c9d6eb99-bc96-47ea-a703-b759ae419f41" />| <img width="1898" height="1166" alt="image" src="https://github.com/user-attachments/assets/0820aaad-4c97-400c-921a-bc2ebae66e34" />|
 
 
 ## 技术栈
