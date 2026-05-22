@@ -1,6 +1,6 @@
 <h1 align="center"></h1>
 <p align="center">
-  <img src="public/assets/brand/mpay-logo.svg" alt="MPAY V2 Webman" width="400">
+  <img src="public/assets/brand/mpay-logo.svg" alt="iOS 超级签名" width="400">
 </p>
 基于 Go + Vue3 开发的 iOS 超级签名管理系统，支持公共池、独立池、对接站点、代销分发、用户软件源等完整功能。
 
@@ -18,7 +18,8 @@
 - **用户软件源**用户在前端自行创建/管理多个软件源
 - **业务图生成**：用户可定制店铺信息生成营销图
 - **邀请返利**：多级邀请关系 + 充值返利
-
+- **商店发卡**：商店卡密功能
+- **帮助中心**：可以发文章哦
 ### 系统能力
 - **通用域名管理**：管理员配置泛解析根域名库，支持多用途分类（分站等）
 - **SSL 自动应用**：后台粘贴证书 PEM 自动写文件 + 生成 Nginx 配置 + reload，无需手动改 Nginx
@@ -28,38 +29,58 @@
 - **聚合登录**：微信/QQ/微博 OAuth 登录
 - **系统更新**：在线一键更新，systemd 自动重启，自动清理旧备份
 
+## 📁 测试站点
 
+```
+主站后台：https://dome.appleios.cn/admin  账户 admin 密码admin123
+前台：https://dome.appleios.cn  账户dome 密码dome1234
+测试分站：csaaaa.fz.pkq7.cn
+```
 ## 🖼️ 效果截图
 
 以下截图用于展示iOS 超级签名管理系统的完整业务效果。
 
-| 管理后台运营首页 | 商户后台首页 |
+| 管理后台首页 | 用户首页 |
 | --- | --- |
-| ![管理后台运营首页](https://foruda.gitee.com/images/1779238498207284572/7215e8ce_12697045.png) | ![商户后台首页](https://foruda.gitee.com/images/1779238533395522489/5a21b96b_12697045.jpeg) |
+| ![管理后台](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/1e9ce42b-6b7a-471b-8a7b-42a97d36a0de" />
+) | ![首页](<img width="1257" height="1279" alt="image" src="https://github.com/user-attachments/assets/d49de63f-225f-4da4-862d-fc3162c73f29" />
+) |
 
-| 插件中心 | 插件配置 |
+| 设备管理 | 用户管理 |
 | --- | --- |
-| ![插件中心](https://foruda.gitee.com/images/1779238551992502057/341b04c1_12697045.png) | ![插件配置](https://foruda.gitee.com/images/1779238572250428440/4fe329d9_12697045.png) |
+| ![设备管理](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/68194eb1-83ea-4b76-8890-b31fe976a655" />
+) | ![用户管理](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/5ede3cfc-3630-41b5-a991-2ef1b0f6e3e2" />
+) |
 
-| 商户列表 | 商户资料 |
+| 分站管理 | 后台配置 |
 | --- | --- |
-| ![商户列表](https://foruda.gitee.com/images/1779238590151676222/f514118c_12697045.png) | ![商户资料](https://foruda.gitee.com/images/1779238609164906930/dcf38240_12697045.png) |
+| ![分站管理](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/d9d995d0-a489-4cdd-86cd-a27f29b66af4" />
+) | ![后台配置](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/e8ddba2d-aa58-4a30-b3fc-b942d948f408" />
+) |
 
-| 通道轮询 | 系统配置 |
+| 后台配置 | 后台配置 |
 | --- | --- |
-| ![通道轮询](https://foruda.gitee.com/images/1779238629717797023/3fd4032a_12697045.png) | ![系统配置](https://foruda.gitee.com/images/1779238653064286041/6453f45d_12697045.png) |
+| ![后台配置](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/2871e675-58ae-4cd6-ac22-1382574567d7" />
+) | ![后台配置](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/a7cbd56b-1dd7-44f2-b653-7ddcb3616a2c" />
+) |
 
-| 运行监控 | 账户资金 |
+| 商品发卡 | 帮助中心 |
 | --- | --- |
-| ![运行监控](https://foruda.gitee.com/images/1779238672017076518/5b618172_12697045.png) | ![账户资金](https://foruda.gitee.com/images/1779238690648683948/72147d60_12697045.png) |
+| ![商品发卡](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/72447949-e415-4ea0-8ccb-ca836751d071" />
+) | ![帮助中心](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/9baf89ea-0ca0-4867-a0d2-51f71932af4a" />
+) |
 
-| 支付订单 | 支付通道 |
+| 工单系统 | 软件源 |
 | --- | --- |
-| ![支付订单](https://foruda.gitee.com/images/1779238708517050435/8baed165_12697045.png) | ![支付通道](https://foruda.gitee.com/images/1779238724562054604/37094c84_12697045.png) |
+| ![工单系统](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/04b982da-8880-441f-8cb2-5d1b5768e5da" />
+) | ![软件源](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/83143df0-13e4-4c9c-9abd-80837e4c17f0" />
+) |
 
-| 二维码收银台 | 文件管理 |
+| 分站后台，主站 | 分站主站后台导航区别 |
 | --- | --- |
-| ![二维码收银台](https://foruda.gitee.com/images/1779238745769201133/3eec33f7_12697045.png) | ![文件管理](https://foruda.gitee.com/images/1779238770787169407/70d580a0_12697045.png) |
+| ![分站后台](<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/c9d6eb99-bc96-47ea-a703-b759ae419f41" />
+) | ![分站主站后台导航区别](<img width="1898" height="1166" alt="image" src="https://github.com/user-attachments/assets/0820aaad-4c97-400c-921a-bc2ebae66e34" />
+) |
 
 
 ## 技术栈
