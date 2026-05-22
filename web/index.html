@@ -1,0 +1,48 @@
+<!doctype html>
+<html>
+  <head>
+    <title>iOS证书站</title>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover"
+    />
+    <!-- 固定浅色渲染，避免 iOS 系统暗黑下 Safari/表单等局部反色 -->
+    <meta name="color-scheme" content="light" />
+    <meta
+      name="description"
+      content="Art Design Pro - A modern admin dashboard template built with Vue 3, TypeScript, and Element Plus."
+    />
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-C1KazUkF.ico" />
+    <!-- Font Awesome -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+
+    <style>
+      /* 防止页面刷新时白屏的初始样式；不跟随系统暗黑 */
+      html {
+        background-color: #fafbfc;
+        color-scheme: light;
+      }
+    </style>
+
+    <script>
+      // 首屏不根据 sys-theme 预加 dark，避免与「固定浅色」策略冲突；主题由 Vue 初始化后统一应用
+      ;(function () {
+        try {
+          document.documentElement.classList.remove('dark')
+        } catch (e) {
+          console.warn('Failed to reset initial theme class:', e)
+        }
+      })()
+    </script>
+    <script type="module" crossorigin src="/assets/index-Ly6MFe4n.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-PjEP6kmC.css">
+  </head>
+
+  <body>
+    <div id="app"></div>
+  </body>
+</html>

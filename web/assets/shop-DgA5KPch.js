@@ -1,0 +1,1 @@
+function t(t){switch(t){case"少量":return"status-low";case"加急":return"status-urgent";case"有货":return"status-ok";default:return"status-empty"}}function s(t){return"有货"===t||"加急"===t||"少量"===t}export{s as c,t as s};
