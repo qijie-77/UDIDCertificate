@@ -230,8 +230,15 @@ include /www/server/panel/vhost/nginx/ssl-managed/*.conf;
 注意：将 /www/wwwroot/your-domain 替换为你的实际部署路径，端口 8090 与 .env 中的 SERVER_PORT 保持一致。
 ```
 
+第四步：启动后端
 
-第四步：项目信息
+赋予执行权限并启动：
+```
+chmod +x /www/wwwroot/your-domain/server/server
+/www/wwwroot/your-domain/server/server
+```
+
+第五步：项目信息
 环境变量-指定变量 填写这个
 ```
 export DB_HOST=127.0.0.1
@@ -243,7 +250,7 @@ export SERVER_PORT=8090
 ```
 运行用户root
 
-第五步：访问安装引导
+第六步：访问安装引导
 浏览器访问 https://your-domain.com/admin/#/install 
 按照引导完成
 
