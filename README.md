@@ -1,6 +1,7 @@
-<h1 align="center"></h1>
+<h1 align="center">iOS 超级签名管理系统</h1>
 <p align="center">
-  <img src="public/assets/brand/mpay-logo.svg" alt="iOS 超级签名" width="400">
+  <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/8db3c48e-a6fb-49d3-a5af-b128817006ec" />
+
 </p>
 基于 Go + Vue3 开发的 iOS 超级签名管理系统，支持公共池、独立池、对接站点、代销分发、用户软件源等完整功能。
 
@@ -63,6 +64,10 @@
 | 工单系统 | 软件源 |
 | --- | --- |
 | <img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/04b982da-8880-441f-8cb2-5d1b5768e5da" />|<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/83143df0-13e4-4c9c-9abd-80837e4c17f0" />|
+
+| 支持时间锁贴牌 | 贴牌预览 |
+| --- | --- |
+|<img width="2560" height="1279" alt="image" src="https://github.com/user-attachments/assets/aa0acca8-629b-4c9a-9a8b-d359d4b9d33f" />|<img width="1772" height="1280" alt="1985b1a0d4636ee16cb299a4e7c557a9" src="https://github.com/user-attachments/assets/7fea9f83-0d48-4a19-b407-d74901ef8f9e" />|
 
 | 分站后台，主站 | 分站主站后台导航区别 |
 | --- | --- |
