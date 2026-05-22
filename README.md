@@ -102,6 +102,18 @@ your-domain/
 └── admin/           # 管理端静态文件
 ```
 
+## systemd 服务
+```
+安装引导会自动注册 systemd 服务，也可手动执行：
+bash install-service.sh /www/wwwroot/your-domain udid-cert
+```
+
+## 常用命令：
+```
+systemctl status udid-cert    # 查看状态
+systemctl restart udid-cert   # 重启
+journalctl -u udid-cert -f    # 查看日志
+```
 
 ## 📝 安装说明
 ```
@@ -230,15 +242,8 @@ include /www/server/panel/vhost/nginx/ssl-managed/*.conf;
 注意：将 /www/wwwroot/your-domain 替换为你的实际部署路径，端口 8090 与 .env 中的 SERVER_PORT 保持一致。
 ```
 
-第四步：启动后端
 
-赋予执行权限并启动：
-```
-chmod +x /www/wwwroot/your-domain/server/server
-/www/wwwroot/your-domain/server/server
-```
-
-第五步：项目信息
+第四步：项目信息
 环境变量-指定变量 填写这个
 ```
 export DB_HOST=127.0.0.1
@@ -250,7 +255,7 @@ export SERVER_PORT=8090
 ```
 运行用户root
 
-第六步：访问安装引导
+第五步：访问安装引导
 浏览器访问 https://your-domain.com/admin/#/install 
 按照引导完成
 
