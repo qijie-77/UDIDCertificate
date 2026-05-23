@@ -3,7 +3,7 @@
   <img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/8db3c48e-a6fb-49d3-a5af-b128817006ec" />
 
 </p>
-基于 Go + Vue3 开发的 iOS 超级签名管理系统，支持公共池、独立池、对接站点、代销分发、用户软件源等完整功能。
+基于 Go + Vue3 开发的 iOS 超级签名管理系统，支持公共池、独立池、对接站点、代销分发、分站、用户软件源等完整功能。
 
 ## 功能特性
 
