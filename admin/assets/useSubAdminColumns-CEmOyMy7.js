@@ -1,0 +1,1 @@
+import{O as n,C as r}from"./index-E7FNXvcB.js";function u(){const u=n(),t=r(()=>{var n;const r=u.info;return!0===(null==r?void 0:r.is_sub)||Number(null!=(n=null==r?void 0:r.tenant_id)?n:0)>0});return{isSubAdmin:t,filterColumns:function(n,r=[]){if(!t.value)return n;const u=new Set(["id","user_id",...r]);return n.filter(n=>{var r;return!u.has(null!=(r=n.prop)?r:"")})}}}export{u};

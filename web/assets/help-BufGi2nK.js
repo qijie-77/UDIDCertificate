@@ -1,1 +1,0 @@
-import{ad as r}from"./index-Ly6MFe4n.js";function e(){return r.get({url:"/help/categories"})}function t(e){return r.get({url:"/help/articles",params:e})}function a(e){return r.get({url:`/help/articles/${e}`})}export{e as a,t as b,a as g};
