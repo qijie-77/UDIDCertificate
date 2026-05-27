@@ -1,0 +1,1 @@
+import{M as a,dV as s,J as t,O as u}from"./index-BCPktRq8.js";const n=u(),o=()=>{var u,o;const r=a(),{isFrontendMode:e}=s(),{info:i}=t(n),l=null!=(o=null==(u=i.value)?void 0:u.buttons)?o:[],d=Array.isArray(r.meta.authList)?r.meta.authList:[];return{hasAuth:a=>e.value?l.includes(a):d.some(s=>(null==s?void 0:s.authMark)===a)}};export{o as u};

@@ -1,1 +1,0 @@
-import{a6 as s,an as a,$ as e,d as t,G as o,l,q as d,aC as r,as as p}from"./index-E7FNXvcB.js";const i=s({to:{type:a([String,Object]),required:!0},disabled:Boolean});const n=p(e(t({__name:"teleport",props:i,setup:s=>(s,a)=>s.disabled?o(s.$slots,"default",{key:0}):(d(),l(r,{key:1,to:s.to},[o(s.$slots,"default")],8,["to"]))}),[["__file","teleport.vue"]]));export{n as E,i as t};
